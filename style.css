@@ -1,3 +1,10 @@
 body{
     background-color: pink;
+    color: white;
+}
+
+p{
+    color:rgb(255, 228, 247);
+    font-size: 20px;
+    font-weight: 600;
 }
